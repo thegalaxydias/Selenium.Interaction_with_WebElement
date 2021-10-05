@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Interaction with WebElement", "Selenium.Interaction with WebElement\Selenium.Interaction with WebElement.csproj", "{F0E37A62-78C5-4597-8226-ABF33F8C62FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E37A62-78C5-4597-8226-ABF33F8C62FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E37A62-78C5-4597-8226-ABF33F8C62FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E37A62-78C5-4597-8226-ABF33F8C62FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E37A62-78C5-4597-8226-ABF33F8C62FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3045D344-EBD5-48F5-B98F-594DC1AC78DB}
+	EndGlobalSection
+EndGlobal
